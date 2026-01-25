@@ -41,4 +41,3 @@ A responsive website consisiting of several pages:
 
 - HTML
 - CSS
-- JavaScript
